@@ -1,2 +1,2 @@
 # PalindromeChecker
-another easy one
+another easy one. Case insensitive, whitespace/symbols are optional.
